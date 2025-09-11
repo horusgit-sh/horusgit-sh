@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science - Software Engineering <br>Penetration tester<br>Ethical hacker<br>Malware researcher<br>Artificial Intelligence investigator<br>
+Computer Science - Software Engineering student <br>Penetration tester<br>Ethical hacker<br>Malware researcher<br>Artificial Intelligence investigator<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Horus.sh) 
