@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am first-year Computer Science - Software Engineering student <br>Cybersecurity enthusiast<br>Part-time Bug Bounty Hunter<br>Pentester<br>Artificial Intelligence investigator<br>Beginner Medium writer
-
+Computer Science - Software Engineering <br>Penetration tester<br>Ethical hacker<br>Malware researcher<br>Artificial Intelligence investigator<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Horus.sh) 
